@@ -1,0 +1,31 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+   background-color: burlywood; 
+}
+
+img{
+    width: 300px;
+   border-radius: 5%; 
+   align-items: center;
+
+}
+
+h1, h2{
+    text-align: center;
+    color:brown;
+}
+
+#best-seller{
+    border-width: 4px;
+    border-style: solid;
+    border-color: #0d0d0e;
+}
+
+.tagline, .note{
+    align-items: center;
+    letter-spacing: 3px;
+    font-size: 15px;  
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
